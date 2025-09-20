@@ -14,12 +14,13 @@
     "darker",
     "theme"
   ],
+  
   "repository": {
 		"type": "git",
 		"url": "https://github.com/elchedli/BetterOneDark"
 	},
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "*"
   },
   "categories": [
     "Themes"
