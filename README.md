@@ -26,7 +26,7 @@ Here is a side-by-side comparison between the original One Dark Pro theme and th
 
 ### Better One Dark
 
-![Better One Dark](./screenshots/comparaison2MyOwn.PNG)
+![Better One Dark](./screenshots/comparaison2MyOwn.png)
 
 ---
 
