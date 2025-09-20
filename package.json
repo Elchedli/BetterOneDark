@@ -1,0 +1,40 @@
+{
+  "name": "better-one-dark-pro",
+  "displayName": "One Dark Better",
+  "description": "A modified version of one dark that makes it visually more appealing and more comfortable for the eyes.",
+  "version": "1.0.0",
+  "publisher": "elchedli",
+  "icon": "icon.png",
+  "keywords": [
+    "dark theme",
+    "one dark",
+    "onedark",
+    "one dark pro",
+    "better one dark",
+    "darker",
+    "theme"
+  ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/elchedli/BetterOneDark"
+	},
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+		"color": "#2d323b",
+		"theme": "dark"
+	},
+  "contributes": {
+    "themes": [
+      {
+        "label": "Better One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Better One Dark-color-theme.json"
+      }
+    ]
+  }
+}
