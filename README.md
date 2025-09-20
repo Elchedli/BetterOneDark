@@ -12,31 +12,31 @@ Here is a side-by-side comparison between the original One Dark Pro theme and th
 
 ### One Dark Pro
 
-![One Dark Pro](./screenshots/comparaison1AtomDark.PNG)
+![One Dark Pro](https://github.com/Elchedli/BetterOneDark/blob/main/screenshots/comparaison1AtomDark.PNG)
 
 ### Better One Dark
 
-![Better One Dark](./screenshots/comparaison1MyOwn.PNG)
+![Better One Dark](https://github.com/Elchedli/BetterOneDark/blob/main/screenshots/comparaison1MyOwn.PNG)
 
 ---
 
 ### One Dark Pro
 
-![One Dark Pro](./screenshots/comparaison2AtomDarker.PNG)
+![One Dark Pro](https://github.com/Elchedli/BetterOneDark/blob/main/screenshots/comparaison2AtomDarker.PNG)
 
 ### Better One Dark
 
-![Better One Dark](./screenshots/comparaison2MyOwn.png)
+![Better One Dark](https://github.com/Elchedli/BetterOneDark/blob/main/screenshots/comparaison2MyOwn.png)
 
 ---
 
 ### One Dark Pro
 
-![One Dark Pro](./screenshots/comparaison3AtomOne.PNG)
+![One Dark Pro](https://github.com/Elchedli/BetterOneDark/blob/main/screenshots/comparaison3AtomOne.PNG)
 
 ### Better One Dark
 
-![Better One Dark](./screenshots/comparaison3MyOwn.PNG)
+![Better One Dark](https://github.com/Elchedli/BetterOneDark/blob/main/screenshots/comparaison3MyOwn.PNG)
 
 **Which one do you prefer?**
 
